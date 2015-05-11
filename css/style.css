@@ -406,7 +406,7 @@ hr {
 
 .team.boxed-grey.background {
 	padding:20% 0 0 0;		
-	background: url(../img/ubicompsm.jpg); 
+	background: url(../img/ubicompsm.jpg) no-repeat top center; 
 	background-size: contain;	
 }
 
